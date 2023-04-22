@@ -45,6 +45,13 @@
             <version>4.4</version>
         </dependency>
 
+        <!--        <dependency>-->
+        <!--            <groupId>com.atlassian.maven.plugins</groupId>-->
+        <!--            <artifactId>bitbucket-maven-plugin</artifactId>-->
+        <!--            <version>8.10.0</version>-->
+        <!--        </dependency>-->
+
+
     </dependencies>
 
     <build>
@@ -75,31 +82,17 @@
             </plugin>
 
 
-            <plugin>
-                <groupId>de.gebit.maven.plugins</groupId>
-                <artifactId>gitflow-maven-plugin</artifactId>
-                <version>1.0-m5.3</version>
-                <configuration>
-                    <developmentBranch>develop</developmentBranch>
-                    <productionBranch>main</productionBranch>
-                </configuration>
-                <executions>
-                    <execution>
-                        <id>pull-request</id>
-                        <phase>deploy</phase>
-                        <goals>
-                            <goal>pull-request</goal>
-                        </goals>
-                        <configuration>
-                            <title>My pull request title</title>
-                            <description>My pull request description</description>
-                        </configuration>
-                    </execution>
-                </executions>
-            </plugin>
-
-
         </plugins>
     </build>
+
+    <repositories>
+
+        <repository>
+            <id>bitbucket</id>
+            <name>bitbucket</name>
+            <url>https://maven.atlassian.com/content/repositories/atlassian-public</url>
+        </repository>
+
+    </repositories>
 
 </project>
