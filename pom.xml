@@ -10,7 +10,7 @@
     </parent>
     <groupId>at.version.bumping</groupId>
     <artifactId>bumping</artifactId>
-    <version>0.0.4</version>
+    <version>0.0.5</version>
     <name>Version Bumping</name>
     <description>Version Bumping for Maven Projects</description>
     <properties>
