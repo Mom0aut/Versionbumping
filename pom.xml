@@ -10,7 +10,7 @@
     </parent>
     <groupId>at.version.bumping</groupId>
     <artifactId>bumping</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <name>Version Bumping</name>
     <description>Version Bumping for Maven Projects</description>
     <properties>
@@ -64,17 +64,10 @@
             <plugin>
                 <groupId>se.bjurr.gitchangelog</groupId>
                 <artifactId>git-changelog-maven-plugin</artifactId>
-                <version>1.100.6</version>
-                <executions>
-                    <execution>
-                        <id>GenerateGitChangelog</id>
-                        <phase>generate-sources</phase>
-                        <goals>
-                            <goal>git-changelog</goal>
-                        </goals>
-                        <configuration>
-                            <templateContent>
-                                <![CDATA[
+
+                <configuration>
+                    <templateContent>
+                        <![CDATA[
  {{#tags}}
 ## {{name}}
  {{#issues}}
@@ -104,10 +97,9 @@
  {{/issues}}
 {{/tags}}
          ]]>
-                            </templateContent>
-                        </configuration>
-                    </execution>
-                </executions>
+                    </templateContent>
+                </configuration>
+
             </plugin>
 
         </plugins>
