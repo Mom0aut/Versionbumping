@@ -1,3 +1,88 @@
+## 0.0.6
+### No issue
+
+**Merge branch 'develop'**
+
+
+[bd7c18caf92cbae](https://github.com/Mom0aut/Versionbumping/commit/bd7c18caf92cbae) Your Name *2023-11-30 21:59:28*
+
+**Update versions for release**
+
+
+[a3e2f25cac88435](https://github.com/Mom0aut/Versionbumping/commit/a3e2f25cac88435) Your Name *2023-11-30 21:59:28*
+
+**Update for next development version**
+
+
+[37a7b08fa629ea4](https://github.com/Mom0aut/Versionbumping/commit/37a7b08fa629ea4) Your Name *2023-11-30 21:59:13*
+
+**Merge tag '0.0.5' into develop**
+
+ * Tag release
+
+[4b15f3ecb2398c1](https://github.com/Mom0aut/Versionbumping/commit/4b15f3ecb2398c1) Your Name *2023-11-30 21:59:11*
+
+**Update versions for release**
+
+
+[38c19accc0e5210](https://github.com/Mom0aut/Versionbumping/commit/38c19accc0e5210) Your Name *2023-11-30 21:59:11*
+
+**testing**
+
+
+[fab52fe2b1f4699](https://github.com/Mom0aut/Versionbumping/commit/fab52fe2b1f4699) Your Name *2023-11-30 21:58:54*
+
+**Update for next development version**
+
+
+[9590f39396d398e](https://github.com/Mom0aut/Versionbumping/commit/9590f39396d398e) Your Name *2023-11-30 21:58:30*
+
+**Merge tag '0.0.4' into develop**
+
+ * Tag release
+
+[fd1fbe1f6059cf4](https://github.com/Mom0aut/Versionbumping/commit/fd1fbe1f6059cf4) Your Name *2023-11-30 21:58:29*
+
+
+## 0.0.5
+### No issue
+
+**Merge branch 'develop'**
+
+
+[c3f05fe0f18ce66](https://github.com/Mom0aut/Versionbumping/commit/c3f05fe0f18ce66) Your Name *2023-11-30 21:59:11*
+
+
+## 0.0.4
+### No issue
+
+**Update versions for release**
+
+
+[977b2d2730e7ab7](https://github.com/Mom0aut/Versionbumping/commit/977b2d2730e7ab7) Your Name *2023-11-30 21:58:28*
+
+**Merge branch 'develop'**
+
+
+[7a49e4a0b72ef6b](https://github.com/Mom0aut/Versionbumping/commit/7a49e4a0b72ef6b) Your Name *2023-11-30 21:58:28*
+
+**added CHANGELOG.md**
+
+
+[3810d26a2956992](https://github.com/Mom0aut/Versionbumping/commit/3810d26a2956992) Your Name *2023-11-30 21:58:06*
+
+**Update for next development version**
+
+
+[2c3c276ba289922](https://github.com/Mom0aut/Versionbumping/commit/2c3c276ba289922) Your Name *2023-11-30 21:56:53*
+
+**Merge tag '0.0.3' into develop**
+
+ * Tag release
+
+[3d7c0d8170de8e0](https://github.com/Mom0aut/Versionbumping/commit/3d7c0d8170de8e0) Your Name *2023-11-30 21:56:51*
+
+
 ## 0.0.3
 ### No issue
 
