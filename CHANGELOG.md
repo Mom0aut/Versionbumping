@@ -1,15 +1,41 @@
-## 0.0.6
+## 0.0.7
 ### No issue
 
 **Merge branch 'develop'**
 
 
-[bd7c18caf92cbae](https://github.com/Mom0aut/Versionbumping/commit/bd7c18caf92cbae) Your Name *2023-11-30 21:59:28*
+[5821d0ca322edc6](https://github.com/Mom0aut/Versionbumping/commit/5821d0ca322edc6) Your Name *2023-12-01 18:22:09*
+
+**Update versions for release**
+
+
+[1cf57df670b08e6](https://github.com/Mom0aut/Versionbumping/commit/1cf57df670b08e6) Your Name *2023-12-01 18:22:09*
+
+**added new plugin version**
+
+
+[8cebc9db79d1903](https://github.com/Mom0aut/Versionbumping/commit/8cebc9db79d1903) Your Name *2023-12-01 18:21:45*
+
+**added showcase wrong CHANGELOG.md**
+
+
+[19cf9bfec4ac033](https://github.com/Mom0aut/Versionbumping/commit/19cf9bfec4ac033) Your Name *2023-11-30 22:00:18*
+
+**Update for next development version**
+
+
+[584c55be3ccf94a](https://github.com/Mom0aut/Versionbumping/commit/584c55be3ccf94a) Your Name *2023-11-30 21:59:29*
 
 **Update versions for release**
 
 
 [a3e2f25cac88435](https://github.com/Mom0aut/Versionbumping/commit/a3e2f25cac88435) Your Name *2023-11-30 21:59:28*
+
+**Merge tag '0.0.6' into develop**
+
+ * Tag release
+
+[005ce69beeb816a](https://github.com/Mom0aut/Versionbumping/commit/005ce69beeb816a) Your Name *2023-11-30 21:59:28*
 
 **Update for next development version**
 
@@ -42,6 +68,15 @@
  * Tag release
 
 [fd1fbe1f6059cf4](https://github.com/Mom0aut/Versionbumping/commit/fd1fbe1f6059cf4) Your Name *2023-11-30 21:58:29*
+
+
+## 0.0.6
+### No issue
+
+**Merge branch 'develop'**
+
+
+[bd7c18caf92cbae](https://github.com/Mom0aut/Versionbumping/commit/bd7c18caf92cbae) Your Name *2023-11-30 21:59:28*
 
 
 ## 0.0.5
