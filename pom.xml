@@ -10,7 +10,7 @@
     </parent>
     <groupId>at.version.bumping</groupId>
     <artifactId>bumping</artifactId>
-    <version>0.0.7</version>
+    <version>0.0.8</version>
     <name>Version Bumping</name>
     <description>Version Bumping for Maven Projects</description>
     <properties>
@@ -32,12 +32,6 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
-
-        <!--        <dependency>-->
-        <!--            <groupId>se.bjurr.gitchangelog</groupId>-->
-        <!--            <artifactId>git-changelog-maven-plugin</artifactId>-->
-        <!--            <version>1.100.6</version>-->
-        <!--        </dependency>-->
 
     </dependencies>
 
@@ -71,7 +65,7 @@
             <plugin>
                 <groupId>se.bjurr.gitchangelog</groupId>
                 <artifactId>git-changelog-maven-plugin</artifactId>
-                <version>1.100.6</version>
+                <version>1.100.7</version>
                 <configuration>
                     <templateContent>
                         <![CDATA[
