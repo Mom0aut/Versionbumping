@@ -32,6 +32,13 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+
+        <!--        <dependency>-->
+        <!--            <groupId>se.bjurr.gitchangelog</groupId>-->
+        <!--            <artifactId>git-changelog-maven-plugin</artifactId>-->
+        <!--            <version>1.100.6</version>-->
+        <!--        </dependency>-->
+
     </dependencies>
 
     <build>
@@ -64,7 +71,7 @@
             <plugin>
                 <groupId>se.bjurr.gitchangelog</groupId>
                 <artifactId>git-changelog-maven-plugin</artifactId>
-
+                <version>1.100.6</version>
                 <configuration>
                     <templateContent>
                         <![CDATA[
